@@ -515,17 +515,6 @@ Future improvements that could further enhance the microprocessor’s capabiliti
 These enhancements, if implemented, could push the performance of the microprocessor even further, making it more suitable for a broader range of applications and more demanding computational tasks.
 
 
-## My Contributions to the Project
-
-- Control Unit Design
-- Instruction Format
-- Instruction Decoder
-- Immediate Data Extractor
-- Instruction Issuing Unit
-- Next PC Logic
-- Top Level Module
-- Testbench Development
-- Rigorous Simulation
 
 
 ---
